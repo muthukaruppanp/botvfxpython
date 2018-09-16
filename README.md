@@ -1,5 +1,6 @@
 # botvfxpython
 1. In Python write loop code to print the following output?
+```python
 ##########
 #..#..#..#
 #..#..#..#
@@ -10,8 +11,10 @@
 #..#..#..#
 #..#..#..#
 ##########
+```
 
 2. In Python write code loop to print a circle output similar to the following?
+```python
 #########################################
 #########################################
 ##############.............##############
@@ -53,6 +56,7 @@
 ##############.............##############
 #########################################
 #########################################
+```
 
 3. In Python refactor the code from question 1 and question 2 into classes?
 
