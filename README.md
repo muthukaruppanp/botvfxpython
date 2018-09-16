@@ -83,7 +83,9 @@ worked on CMP002
 9. Using the tables in appendix A, write the SQL command which returns a table with the
 columns shown below, return all records from all tables (i.e some of the columns might
 be null):
-|CompanyName |ShowCode |ShotID |ShotName |BidPDS |Artist |AssignedHours |HoursWorked|
+
+| CompanyName | ShowCode | ShotID | ShotName | BidPDS | Artist | AssignedHours | HoursWorked |
+| ----------- |:--------:|:------:|:--------:|:------:|:------:|:-------------:|:-----------:|
 
 10. Using the tables in appendix A, write the SQL command returning distinct Artists and
 their Efficiency using the formula given below:
