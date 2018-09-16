@@ -121,3 +121,17 @@ SQL Table name: shots
 | 5      | 1        | Shot02   | 1      |
 | 6      | 2        | Shot03   | 9      |
 
+SQL Table name: assignments
+---------------------------
+
+| Artist | ShotID | AssignedHours | AssignedHours |
+|:------:|:------:|:-------------:|:-------------:|
+| Jane   | 3      | 3             | 5             |
+| Doe    | 3      | 3             | 5             |
+| Jane   | 2      | 2             | 3.5           |
+| Hanna  | 2      | 2             | 3.5           |
+| Jane   | 6      | 3.5           | 4             |
+| Doe    | 6      | 3             | 5             |
+| Hanna  | 6      | 2.5           | 3             |
+| Doe    | 2      | 1.5           | 3             |
+| Hanna  | 1      | 3.6           | 4             |
