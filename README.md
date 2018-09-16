@@ -98,3 +98,12 @@ their **Efficiency** using the formula given below:
 by show while calculating the **Efficiency** using the formula given below:
 
 **ShotEfficiency** = Total hours spend for a shot divided by Total hours assigned to that shot
+
+##Appendix A
+SQL Table name: shows
+
+| ShowCode | CompanyName | CompanyName |
+|:--------:|:-----------:|:-----------:|
+| 1        | CMP001      | Dragons     |
+| 2        | CMP002      | Furious     |
+
