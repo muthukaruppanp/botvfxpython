@@ -72,7 +72,7 @@ and directory.
 Format the output so that it is clearly readable, preferably a format such as the tree
 command.
 
-5. Do the same search above, but using a Breadth first search
+5. Do the same search above, but using a **Breadth** first search
 
 6. Rewrite the classes from question 4 and 5 in JavaScript / Coffee Script / Babel
 
@@ -89,11 +89,12 @@ be null):
 | CompanyName | ShowCode | ShotID | ShotName | BidPDS | Artist | AssignedHours | HoursWorked |
 | ----------- |:--------:|:------:|:--------:|:------:|:------:|:-------------:|:-----------:|
 
-10. Using the tables in appendix A, write the SQL command returning distinct Artists and
-their Efficiency using the formula given below:
+10. Using the tables in appendix A, write the SQL command returning **distinct Artists** and
+their **Efficiency** using the formula given below:
 
-ArtistEfficiency = Total hours worked divided by Total assigned hours
+**ArtistEfficiency** = Total hours worked divided by Total assigned hours
 
 11. Using the tables in appendix A, write the SQL command returning distinct shots
-by show while calculating the Efficiency using the formula given below:
-ShotEfficiency = Total hours spend for a shot divided by Total hours assigned to that shot
+by show while calculating the **Efficiency** using the formula given below:
+
+**ShotEfficiency** = Total hours spend for a shot divided by Total hours assigned to that shot
