@@ -62,6 +62,9 @@
 
 4. Depth first traversal
 
+![alt text]
+(https://github.com/muthukaruppanp/botvfxpython/blob/master/sample/images/folder_structure.jpg)
+
 Given the above folder structure in Python implement depth first traversal to print
 everything under the `episodes` directory. This must be implemented without
 using any tools or libraries specifically intended for traversing sub folders (eg.
